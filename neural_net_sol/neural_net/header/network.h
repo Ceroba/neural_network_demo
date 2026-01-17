@@ -89,17 +89,17 @@ inline std::vector<double> network::propugate(std::vector<double> inputs)
 	return in;
 }
 
-inline void network::render( /*vx::renderer& r*/)
-{
-	system("cls");
-	for (auto l : layers)
-	{
-		for (int i = 0; i < l.n_nodes_out; i++) {
-			std::cout << "* ";
-		}
-		std::cout << "\n";
-	}
-}
+//inline void network::render( /*vx::renderer& r*/)
+//{
+//	system("cls");
+//	for (auto l : layers)
+//	{
+//		for (int i = 0; i < l.n_nodes_out; i++) {
+//			std::cout << "* ";
+//		}
+//		std::cout << "\n";
+//	}
+//}
 
 inline void network::learnOld(const std::vector<std::vector<double>>& input, const std::vector<std::vector<double>>& expect,double learnrate)
 {

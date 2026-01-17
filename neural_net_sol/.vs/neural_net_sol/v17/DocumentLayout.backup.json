@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\21355\\Desktop\\c\u002B\u002B files\\sfml environment\\neural_net_sol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AF3CB9A-F30E-4372-9BEA-5F6FC49F512D}|neural_net\\neural_net.vcxproj|C:\\Users\\21355\\Desktop\\c\u002B\u002B files\\sfml environment\\neural_net_sol\\neural_net\\source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2AF3CB9A-F30E-4372-9BEA-5F6FC49F512D}|neural_net\\neural_net.vcxproj|solutionrelative:neural_net\\source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2AF3CB9A-F30E-4372-9BEA-5F6FC49F512D}|neural_net\\neural_net.vcxproj|C:\\Users\\21355\\Desktop\\c\u002B\u002B files\\sfml environment\\neural_net_sol\\neural_net\\header\\network.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2AF3CB9A-F30E-4372-9BEA-5F6FC49F512D}|neural_net\\neural_net.vcxproj|solutionrelative:neural_net\\header\\network.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF3CB9A-F30E-4372-9BEA-5F6FC49F512D}|neural_net\\neural_net.vcxproj|C:\\Users\\21355\\Desktop\\c\u002B\u002B files\\sfml environment\\neural_net_sol\\neural_net\\source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AF3CB9A-F30E-4372-9BEA-5F6FC49F512D}|neural_net\\neural_net.vcxproj|solutionrelative:neural_net\\source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AF3CB9A-F30E-4372-9BEA-5F6FC49F512D}|neural_net\\neural_net.vcxproj|C:\\Users\\21355\\Desktop\\c\u002B\u002B files\\sfml environment\\neural_net_sol\\neural_net\\header\\layer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "neural_net\\header\\Activation.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-10T16:20:20.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T16:20:20.668Z"
             },
             {
               "$type": "Document",
@@ -55,18 +54,17 @@
               "RelativeToolTip": "neural_net\\header\\layer.h",
               "ViewState": "AgIAAF4AAAAAAAAAAAAhwFkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-03T10:47:02.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T10:47:02.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\21355\\Desktop\\c\u002B\u002B files\\sfml environment\\neural_net_sol\\neural_net\\source\\main.cpp",
               "RelativeDocumentMoniker": "neural_net\\source\\main.cpp",
-              "ToolTip": "C:\\Users\\21355\\Desktop\\c\u002B\u002B files\\sfml environment\\neural_net_sol\\neural_net\\source\\main.cpp*",
-              "RelativeToolTip": "neural_net\\source\\main.cpp*",
-              "ViewState": "AgIAABEBAAAAAAAAAAAAACgBAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\21355\\Desktop\\c\u002B\u002B files\\sfml environment\\neural_net_sol\\neural_net\\source\\main.cpp",
+              "RelativeToolTip": "neural_net\\source\\main.cpp",
+              "ViewState": "AgIAAO0AAAAAAAAAAADwvwcBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-03T10:32:26.988Z",
               "EditorCaption": ""
@@ -87,18 +85,17 @@
               "RelativeToolTip": "neural_net\\header\\Cost.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-10T19:45:10.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T19:45:10.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "network.h",
               "DocumentMoniker": "C:\\Users\\21355\\Desktop\\c\u002B\u002B files\\sfml environment\\neural_net_sol\\neural_net\\header\\network.h",
               "RelativeDocumentMoniker": "neural_net\\header\\network.h",
-              "ToolTip": "C:\\Users\\21355\\Desktop\\c\u002B\u002B files\\sfml environment\\neural_net_sol\\neural_net\\header\\network.h",
-              "RelativeToolTip": "neural_net\\header\\network.h",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAAGEAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\21355\\Desktop\\c\u002B\u002B files\\sfml environment\\neural_net_sol\\neural_net\\header\\network.h*",
+              "RelativeToolTip": "neural_net\\header\\network.h*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-03T10:46:55.422Z",
               "EditorCaption": ""
